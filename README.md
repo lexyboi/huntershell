@@ -2,7 +2,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="assets/logo.ico" alt="HunterShell Logo" width="200">
+  <img src="assets/logo.jpg" alt="HunterShell Logo" width="200">
 </p>
 
 ---
