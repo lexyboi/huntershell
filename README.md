@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="path/to/your/logo.png" alt="HunterShell Logo" width="200">
+</p>
+
 # HunterShell
 
 HunterShell is a Windows program designed to mimic a Linux shell.  
