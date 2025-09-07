@@ -1,6 +1,11 @@
+---
+
+<!-- Logo -->
 <p align="center">
-  <img src="path/to/your/logo.png" alt="HunterShell Logo" width="200">
+  <img src="assets/logo.ico" alt="HunterShell Logo" width="200">
 </p>
+
+---
 
 # HunterShell
 
